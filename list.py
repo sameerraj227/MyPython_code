@@ -57,3 +57,6 @@ print(l)
 m=list.copy(l)#will copy list l
 m[0]=11
 print(m)
+
+a=list(input("Enter a list: ").split)
+print(a)
