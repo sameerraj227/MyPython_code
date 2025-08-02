@@ -1,3 +1,3 @@
 import numpy as np
-numpy_array = np.array([1, 2, 3, 4, 5, 5, 5, 6, 6, 6, 7, 8, 9, 10])
-print(numpy_array)
+range_array = np.arange(1, 10, 2)
+print(range_array) 
